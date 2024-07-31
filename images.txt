@@ -1,1 +1,1 @@
-docker pull redis:latest
+docker pull eipwork/kuboard:v3.1.1.1-amd64
