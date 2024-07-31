@@ -1,1 +1,2 @@
-eipwork/kuboard:v3.1.1.1-amd64
+eipwork/kuboard:v3.5.2.2-amd64
+
